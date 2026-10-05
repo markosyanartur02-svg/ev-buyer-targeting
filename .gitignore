@@ -1,0 +1,23 @@
+# data and generated artefacts (data must not be redistributed)
+data/*
+!data/README.md
+oof/
+submissions/
+cloud_gpu/
+kout/
+kout2/
+kout3/
+public_oof/
+public_oof2/
+my_oof/
+catboost_info/
+*.log
+
+# python / environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
