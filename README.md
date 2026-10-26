@@ -2,7 +2,7 @@
 
 **An Ensemble Approach with Gradient-Boosted and Neural Network Models**
 
-A purchase-propensity model that ranks people by how likely they are to buy an electric vehicle,
+   A purchase-propensity model that ranks people by how likely they are to buy an electric vehicle,
 so that incentives and marketing can be focused on the most likely buyers. Trained on 668,665
 labelled records with 13 demographic, mobility, charging-access and attitude features, and
 benchmarked in an open machine-learning competition with ~3,300 teams, where it finished
